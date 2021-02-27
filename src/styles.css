@@ -1,0 +1,55 @@
+html, body {
+  background-color: navajowhite;
+  text-align: center;
+}
+
+h1 > span {
+  color: #FFBA53
+}
+
+#inputField {
+  width: 300px;
+  height: 44px;
+  border: 2px solid black;
+  font-size: 25px;
+  vertical-align: middle;
+  border-radius: 20px;
+  text-align: center;
+}
+
+#addToDo {
+  height: 50px;
+  width: 50px;
+  border: 2px solid black;
+  font-size: 30px;
+  vertical-align: middle;
+  border-radius: 20px;
+  margin-left: 2px;
+  background-color: #FFC56E
+}
+#btn{
+  height: 40px;
+  width: 40px;
+  border: 2px solid black;
+  font-size: 30px;
+  vertical-align: middle;
+  border-radius: 20px;
+  margin-left: 2px;
+  background-color: #FFC56E
+}
+
+#container{
+  margin-top: 10px;
+}
+
+#listitem {
+  font-size: 30px;
+  vertical-align: middle;
+  border-radius: 20px
+}
+
+#checkbox{
+  height: 20px;
+  width: 20px;
+  vertical-align: middle;
+}
